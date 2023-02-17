@@ -1,0 +1,15 @@
+{
+  "name": "nasa",
+  "version": "1.0.0",
+  "description": "nofhing",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"index.js\""
+  },
+  "author": "laercio souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
